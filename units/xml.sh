@@ -1,0 +1,1 @@
+curl -X POST -d @example.xml http://localhost:5000/auto_base

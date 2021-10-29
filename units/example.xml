@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <model>auto_base</model>
+  <data>
+    <runId>1</runId>
+    <clientage>33</clientage>
+    <loanterm>60</loanterm>
+    <clientjobperiod>36</clientperiod>
+    <marriedstatus>Женат/Замужем</marriedstatus>
+    <workposition>Индивидуальный предприниматель</workposition>
+    <factaddressregion>Южный</factaddressregion>
+    <childrencount>2</childrencount>
+  </data>
+ </root>

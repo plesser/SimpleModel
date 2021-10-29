@@ -1,0 +1,13 @@
+{
+  "model": "auto_base",
+  "data":{
+    "runId": "1",
+    "clientage": "33",
+    "loanterm": "60",
+    "clientjobperiod": "36",
+    "marriedstatus": "Женат/Замужем",
+    "workposition": "Индивидуальный предприниматель",
+    "factaddressregion": "Южный",
+    "childrencount": "2"
+  }
+}

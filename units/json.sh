@@ -1,0 +1,1 @@
+curl -X POST -d @example.json http://localhost:5000/auto_base

@@ -1,0 +1,1 @@
+curl -X POST -d @example.json http://192.168.1.105:5000/auto_base
